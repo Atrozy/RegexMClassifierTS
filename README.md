@@ -29,6 +29,6 @@ Install Dependencies: Ensure that you have Node.js installed, then run:
 3. **Run the Development Server:**
    ```bash
    npm install  
-   npm  run dev
+   npm run dev
 
 The app should now be running at http://localhost:3000.
