@@ -1,3 +1,5 @@
+
+![image](https://github.com/user-attachments/assets/9876ae82-ef86-461c-aa42-8e9af63f3c00)
 # RegexMClassifierTS
 
 A TypeScript-based regular expression classifier designed for categorizing input sentences into predefined categories, implemented in a Next.js environment.
