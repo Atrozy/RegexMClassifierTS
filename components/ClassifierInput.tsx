@@ -37,7 +37,7 @@ const ClassifierInput: React.FC = () => {
         <div style={styles.scoreContainer}>
           {allCategories.map((category) => (
             <p key={category} style={styles.score}>
-              <strong>{category}:</strong> {(scores[category] ?? 0 * 100).toFixed(2)}% probability
+              <strong>{category}:</strong> {(scores[category] ?? 0 * 100).toFixed(2)} probability
             </p>
           ))}
         </div>
