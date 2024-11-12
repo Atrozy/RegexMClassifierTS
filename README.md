@@ -19,19 +19,16 @@ This project is a classifier that uses keyword-based regex matching to categoriz
    ```bash
    git clone https://github.com/Atrozy/RegexMClassifierTS.git
 
-Navigate to the Project Directory:
+2. Navigate to the Project Directory:
 
-bash
-Copy code
-cd RegexMClassifierTS
+   ```bash
+   cd RegexMClassifierTS
+
 Install Dependencies: Ensure that you have Node.js installed, then run:
 
-bash
-Copy code
-npm install
-Run the Development Server:
+3. **Run the Development Server:**
+   ```bash
+   npm install  
+   npm  run dev
 
-bash
-Copy code
-npm run dev
 The app should now be running at http://localhost:3000.
